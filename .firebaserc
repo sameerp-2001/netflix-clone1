@@ -1,0 +1,29 @@
+{
+  "projects": {
+    "default": "netflix-clone-portfolio"
+  },
+  "targets": {
+    "portfolio-36163": {
+      "hosting": {
+        "netflix-port": [
+          "netflix-clone-portfolio"
+        ]
+      }
+    },
+    "netflix-clone-portfolio": {
+      "hosting": {
+        "netflixclone-akshaypatel20": [
+          "netflix-clone"
+        ]
+      }
+    },
+    "personal-projects-3a869": {
+      "hosting": {
+        "netflixclone-akshaypatel20": [
+          "netflix-clone"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
